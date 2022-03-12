@@ -15,12 +15,12 @@ PRAKTIKUM 3 - Translasi dan Rotasi
 yang digunakan oleh objek sebelumnya tidak terbawa ke objek berikutnya.
 
 PRAKTIKUM 4 - Proyeksi dan Animasi
-4-1 :
-4-2 :
-4-3 :
+4-1 : Memahami proyeksi
+4-2 : Membuat animasi benda (kubus)
+4-3 : Membuat lengan bergerak
 
 PRAKTIKUM 5 - Menggunakan kamera dalam openGL
-5-1 : 
+5-1 : menggunakan kamera dalam openGL pada objek teapot (glutSolidTeapot)
 
 PRAKTIKUM 6 - Depth dan Lighting di OpenGL
-6-1 : 
+6-1 : Template untuk mainan objek 3D, kamera bisa maju mundur kiri kanan, sudah dilengkapi pencahayaan, sekarang pake texture
