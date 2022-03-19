@@ -24,3 +24,9 @@ PRAKTIKUM 5 - Menggunakan kamera dalam openGL
 
 PRAKTIKUM 6 - Depth dan Lighting di OpenGL
 6-1 : Template untuk mainan objek 3D, kamera bisa maju mundur kiri kanan, sudah dilengkapi pencahayaan, sekarang pake texture
+
+PRAKTIKUM 7 - Tekstur dengan Gambar
+7-1 : Membuat kubus 3D dengan tekstur berupa gambar
+
+PRAKTIKUM 8 - Bayangan
+8-1 : Membuat objek 3D bergerak statis yang memiliki bayangan
