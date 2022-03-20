@@ -6,4 +6,8 @@ TUGAS 2
 2 : membuat lengan dengan tambahan telapak dan jari-jarinya serta dapat digerakkan dengan memasukkan input character dari keyboard (+pdf penjelasan tidak diupload)
 
 TUGAS 3
-3 : 
+3 : jawaban soal di pdf Praktikum_5_6
+
+TUGAS 4
+4-1 : membuat truk gandeng 3D dengan openGL (illegal)
+4-2 : membuat truk gandeng 3D dengan openGL
