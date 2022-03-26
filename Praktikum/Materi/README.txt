@@ -30,3 +30,9 @@ PRAKTIKUM 7 - Tekstur dengan Gambar
 
 PRAKTIKUM 8 - Bayangan
 8-1 : Membuat objek 3D bergerak statis yang memiliki bayangan
+
+PRAKTIKUM 9 - Interaksi Antar Objek
+9-1 : membuat 2 objek 3D yang dapat berinteraksi yaitu melakukan tendangan
+
+PRAKTIKUM 10 - Interaksi Antar Objek
+10-1 : Membuat kubus yang berada diatas kubus(meja) dan objek manusia dengan 2 tangan yang dapat melakukan interaksi berupa memindahkan kubus diatas meja ke "lantai"
