@@ -11,3 +11,6 @@ TUGAS 3
 TUGAS 4
 4-1 : membuat truk gandeng 3D dengan openGL (illegal)
 4-2 : membuat truk gandeng 3D dengan openGL
+
+TUGAS 5
+5-1 : Membentuk kubus dengan tesktur yang berbeda di setiap sisinya
